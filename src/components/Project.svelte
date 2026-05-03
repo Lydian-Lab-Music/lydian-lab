@@ -1,7 +1,9 @@
 <script lang="ts">
+	import type { Project } from '$lib/types';
+
 	interface Props {
-		project: any;
-		index: any;
+		project: Project;
+		index: number;
 	}
 
 	let { project, index }: Props = $props();
