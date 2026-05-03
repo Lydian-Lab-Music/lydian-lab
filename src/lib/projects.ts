@@ -1,7 +1,7 @@
 export default [
 	{
 		name: 'Lafayette Summer Music Jazz Workshop',
-		href: 'https://github.com/Lydian-Lab-Music-Ed-Tech',
+		href: 'https://github.com/Lydian-Lab-Music/lafsmw-theory-test',
 		url: 'https://lafsmwtheoryexam.com/',
 		icon: 'fa-solid fa-music',
 		description:

@@ -116,7 +116,7 @@
 						com
 						<div class="mt-8">
 							<a
-								href="https://github.com/Lydian-Lab-Music-Ed-Tech"
+								href="https://github.com/Lydian-Lab-Music/"
 								target="_blank"
 								rel="noopener noreferrer"
 								class="inline-block hover:text-primary68 duration-200"

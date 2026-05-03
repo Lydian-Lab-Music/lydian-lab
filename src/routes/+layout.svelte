@@ -18,7 +18,7 @@
 <div class="flex justify-between px-6">
 	<div class="w-[24px]"></div>
 	<p id="copyright" class="text-xs text-center text-primary48 py-10">
-		Copyright © {currentYear} LydianLab Music Education Technology
+		Copyright © {currentYear} Lydian Lab Music
 	</p>
 	<button
 		class="text-xs text-primary48"
